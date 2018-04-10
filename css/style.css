@@ -1427,7 +1427,7 @@ body.apc-open .apc {
 	/* Intro Images
 	 -------------------------------- */
 	.intro-01 .intro-image {
-		background-image: url(../images/intro-image-01.jpg);
+		background-image: url(../images/Profilepic.JPG);
 	}
 
 
@@ -3570,7 +3570,7 @@ body .scrollbar-thumb {
 	left:50%;
 	margin:0 auto;
 	z-index:6;
-	max-width:500px;
+	max-width:700px;
 	text-align:center;
 }
 	.text-slide {
