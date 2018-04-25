@@ -2593,11 +2593,11 @@ body .scrollbar-thumb {
         }
         .sp-tracklist li .track-col.track.sp-play .track-status .status-icon:before {
             content: "\e903";
-            color:#f70;
+            color:#6c9dc2;
         }
         .sp-tracklist li .track-col.track.sp-pause .track-status .status-icon:before {
             content: "\e612";
-             color:#f70;
+             color:#6c9dc2;
         }
         .sp-tracklist li .track-col.track.sp-loading .track-status .status-icon:before {
             content: "\e620";
@@ -2644,7 +2644,7 @@ body .scrollbar-thumb {
     .sp-tracklist li a.track.sp-pause .track-title,
     .sp-tracklist li a.track.sp-loading .track-title {
         font-weight: 600;
-        color:#f60;
+        color:#6c9dc2;
     }
     .sp-tracklist li a.track .track-artists {
         color:#999;
@@ -2672,8 +2672,8 @@ body .scrollbar-thumb {
     }
     .sp-tracklist li .track-col-lyrics .track-lyrics:hover,
     .sp-tracklist li .track-col-lyrics .track-lyrics.is-active {
-    	border: 1px solid #f70;
-    	color:#f70
+    	border: 1px solid #6c9dc2;
+    	color:#6c9dc2
     }
    
     .sp-tracklist li .track-col-lyrics .track-length {
