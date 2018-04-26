@@ -1058,7 +1058,7 @@ body.responsive-block-on .responsive-block-layer {
 	.loader-bar .progress-bar {
 		height: 4px;
 		width: 0%;
-		background: #000;
+		background: #8d7ae3;
 		display: block;
 		transition: all 0.5s ease;
 	}
