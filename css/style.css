@@ -526,7 +526,7 @@ ol,ul {
 					color:#222
 				}
 					#nav ul ul a:hover, #nav ul ul .hover > a, #nav ul ul .current > a, #nav ul ul .current > a:hover {
-						background: #ff7700;
+						background: #8d7ae3;
 						border: none !important;
 						color: #fff;
 					}
