@@ -67,8 +67,8 @@ body {
 	font: 16px/1.6 'PT Sans', sans-serif;
 }
 
-::-moz-selection { background: #ff7700; color: #fff; text-shadow: none; }
-::selection { background: #ff7700; color: #fff; text-shadow: none; }
+::-moz-selection { background: #8d7ae3; color: #fff; text-shadow: none; }
+::selection { background: #8d7ae3; color: #fff; text-shadow: none; }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Barlow Condensed', sans-serif;
 	color: #111;
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: #fff;
 }
 a, a > * {
-	color: #ff7700;
+	color: #8d7ae3;
 	text-decoration: none;
 	-webkit-transition: background-color .2s ease, border .2s ease, color .2s ease, opacity .2s ease-in-out;
 	   -moz-transition: background-color .2s ease, border .2s ease, color .2s ease, opacity .2s ease-in-out;
