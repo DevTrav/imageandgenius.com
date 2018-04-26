@@ -2715,7 +2715,7 @@ body .scrollbar-thumb {
         }
         .track-col-buttons .track-button:hover {
             color:#fff;
-             background-color:#ff7700;
+			 background-color:#8d7ae3;
         }
 
     /* Progress */
@@ -2775,7 +2775,7 @@ body .scrollbar-thumb {
         background: #666;
     }
     .sp-content-progress .sp-content-position {
-    	background-color: #f70;
+    	background-color: #8d7ae3;
     	transition: all 0.2s ease;
     }
 
@@ -4287,7 +4287,7 @@ ul.stats {
 	pointer-events: none;
 }
 #nprogress .bar {
-	background: #ff7700;
+	background: #8d7ae3;
 	position: fixed;
 	z-index: 99999;
 	top: 0;
