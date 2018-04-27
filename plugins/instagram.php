@@ -42,7 +42,7 @@ if ( $user_id == '' ) {
         $user_id = substr( $user_id, $check_char + 1 );
     }
 
-    $url = 'https://www.instagram.com/' . $user_id;
+    $url = 'https://www.instagram.com/imageandgenius/' . $user_id;
    	$ch = curl_init();
 	curl_setopt ($ch, CURLOPT_URL, $url);
 	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
