@@ -1316,7 +1316,7 @@ body.apc-open .apc {
 			margin-bottom:0;
 		}
 		.content-title a { color: #eee; }
-		.content-title a:hover { color: #ff7700; }
+		.content-title a:hover { color: #8d7ae3; }
 		.content-line {
 			width: 100%;
 			height: 8px;
@@ -1451,7 +1451,7 @@ body.apc-open .apc {
 	z-index:1;
 	background-color: #1e1e1e;
 	background-size:cover;
-	background-image:url(../images/countdown-bg.jpg);
+	background-image:url(../images/Sitting_900.jpg);
 }
 	.countdown {
 		text-align: center;
@@ -1518,7 +1518,7 @@ body.apc-open .apc {
 			}
 		h6.upcoming-event {
 			font-size: 24px;
-			color: #f70;
+			color:#8d7ae3;
 			text-transform: uppercase;
 			position: relative;
 			margin-bottom: 0;
