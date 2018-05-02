@@ -3406,7 +3406,7 @@ body .scrollbar-thumb {
 .testi-slider li .front-layer:before {
 	-webkit-transition-delay: 0.2s;
 	transition-delay: 0.2s;
-	background: #f70;
+	background: #8d7ae3;
 }
 .testi-slider li.over .back-layer:before,
 .testi-slider li.over .front-layer:before {
@@ -3428,7 +3428,7 @@ body .scrollbar-thumb {
 	color: #fff;
 	border-left-style: solid;
 	border-left-width: 4px;
-	border-left-color: #f70;
+	border-left-color: #8d7ae3;
 	font-size:18px;
 	line-height:24px;
 	font-weight:300;
@@ -3637,7 +3637,7 @@ body .scrollbar-thumb {
 /* Button
  ------------------------------------ */
 input[type="submit"], button, .button  {
-	background: #ff7700;
+	background: #8d7ae3;
 	border: none;
 	display:inline-block;
 	color: #fff;
