@@ -1639,7 +1639,7 @@ body.apc-open .apc {
   15. Events 
 ================================================== */
 #events {
-	background: transparent url( ../images/events-bg.jpg) center top no-repeat;
+	background: transparent url( ../images/Profilepic.JPG) center top no-repeat;
 	background-size:cover;
 	height:100vh;
 	position:relative;
@@ -3524,7 +3524,7 @@ body .scrollbar-thumb {
  -------------------------------- */
 .single-video {
 	background-size:cover;
-	background-image: url(../images/events-bg.jpg);
+	background-image: url(../images/Profilepic.JPG);
 }
 .single-video > div {
 	max-width:900px;
