@@ -1717,7 +1717,7 @@ body .scrollbar-thumb {
 	transition: background 0.2s cubic-bezier( 0.22, 0.63, 0.4, 1 );
 }
 .events-list li:hover {
-	background: #f60;
+	background: #8d7ae3;
 }
 .events-list li b,
 .events-list li strong {
@@ -1914,12 +1914,12 @@ body .scrollbar-thumb {
 		line-height:normal;
 	}
 	.contact-link:hover {
-		color:#f70
+		color:#8d7ae3
 	}
 	.contact-email {
 		font-size:22px;
 		text-transform:none;
-		color:#f70;
+		color:#8d7ae3;
 	}
 	.contact-info {
 		opacity:0.5;
@@ -2092,7 +2092,7 @@ body .scrollbar-thumb {
 	font-size: 420px;
 	font-weight: bold;
 	text-align: center;
-	color: #ff7700;
+	color: #8d7ae3;
 	padding-bottom: 0px;
 	margin-bottom: 0;
 	position: relative;
@@ -2221,11 +2221,11 @@ body .scrollbar-thumb {
 			color:#fff;
 		}
 		.track-details-1 li .value a.share-btn:hover {
-			background-color:#f60;
+			background-color:#8d7ae3;
 			text-decoration:none
 		}
 		.track-details-1 li .value a.buy-btn {
-			background-color:#f60;
+			background-color:#8d7ae3;
 			padding:6px;
 			line-height:0;
 			border-radius:4px;
@@ -2403,7 +2403,7 @@ body .scrollbar-thumb {
 	transition: all 800ms cubic-bezier(0.190, 1.000, 0.220, 1.000);
 }
 .track-meta-actions .play-track:hover {
-	background-color: #f70;
+	background-color: #8d7ae3;
 }
 	.track-meta-actions .play-track span {
 		color: #fff;
