@@ -1,6 +1,5 @@
 <?php
-mail("jumorrow@protonmail.com","My subject","test message");
-die("Sent");
+
 // Get email address
 require_once 'config.php';
 
