@@ -4,14 +4,14 @@
  ---------------------------------------------------------------------- */
  
 // Enter your email address
-$your_email_address = 'jumorrow@protonmail.com';
+$your_email_address = 'imageandgenius@gmail.com';
 
 
 /* Instagram Feed
  ---------------------------------------------------------------------- */
 
 // Twitter account name
-$user_id = 'empire_of_future';
+$user_id = '@imageandgenius';
 
 // Twitter cache time (default is 1 hour ( 60 minutes ) )
 $instagram_cachetime = 60;

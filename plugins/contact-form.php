@@ -27,7 +27,7 @@ if(isset($_POST['name']) && empty($_POST['spam-check'])) {
 	if($input_subject ) $subject .= ": $input_subject";
 	
 	$message = "$input_message\n";
-	$message .= "\n---\nThis email was sent by contact form.";
+	$message .= "\n---\nThis email was sent by @imageandgenius.";
 
 	// Now check to see if there are any errors 
 	if(!$error) {
