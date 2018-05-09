@@ -3,7 +3,7 @@
 /**
  *
  * INSTAGRAM FEED PARSER
- * Copyrights 2018 Rascals Themes
+ * 
  *
 */
 
@@ -42,7 +42,7 @@ if ( $user_id == '' ) {
         $user_id = substr( $user_id, $check_char + 1 );
     }
 
-    $url = 'https://www.instagram.com/74dfe7cf9c394b04b5c9e00b7a425a0c'. $user_id;
+    $url = 'https://www.instagram.com/'. $user_id;
    	$ch = curl_init();
 	curl_setopt ($ch, CURLOPT_URL, $url);
 	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
@@ -85,7 +85,7 @@ if ( $user_id == '' ) {
 	        } 
 
 	       	if ( !isset( $json['entry_data']['ProfilePage'][0]['graphql']['user'] ) ) {
-           		echo 'Instagram data is not set, plese check your ID';
+           		echo 'https://www.instagram.com/imageandgenius';
            		return;
         	}
             
