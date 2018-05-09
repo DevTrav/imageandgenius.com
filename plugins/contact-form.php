@@ -1,5 +1,5 @@
 <?php
-
+die("Hello");
 // Get email address
 require_once 'config.php';
 
