@@ -23,5 +23,5 @@ else
 {
    echo 'There was a problem with your e-mail (' . $_POST['email'] . ')';   
 }
-die('Direct access to this page is not allowed.');
+
 
