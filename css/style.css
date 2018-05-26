@@ -5282,7 +5282,7 @@ a:hover .text-fx-word p span,
 
  	/* Text Slider */
  	.text-slider h2 {
- 		font-size:34px;
+ 		font-size:34px!important;
  		line-height:42px;
  	}
  	.text-slider h6 {
