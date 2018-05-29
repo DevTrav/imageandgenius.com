@@ -3570,7 +3570,7 @@ body .scrollbar-thumb {
 	left:50%;
 	margin:0 auto;
 	z-index:6;
-	max-width:715px;
+	max-width:815px;
 	text-align:center;
 }
 	.text-slide {
@@ -3581,7 +3581,7 @@ body .scrollbar-thumb {
 	}
 		.text-slide h2 {
 			margin-bottom:15px;
-			font-size: 58px;
+			font-size: 45px;
 			line-height: 68px;
 			font-weight: 700;
 			color:#fff;
